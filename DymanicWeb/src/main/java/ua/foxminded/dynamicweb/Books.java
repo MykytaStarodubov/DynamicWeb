@@ -1,11 +1,11 @@
 package ua.foxminded.dynamicweb;
 
-public class Book {
+public class Books {
     private String title;
     private String description;
     private String contentType;
 
-    public Book(String title, String description, String contentType) {
+    public Books(String title, String description, String contentType) {
         this.title = title;
         this.description = description;
         this.contentType = contentType;
